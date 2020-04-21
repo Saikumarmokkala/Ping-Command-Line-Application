@@ -1,2 +1,1 @@
-# Ping-Command-Line-Application
-Implementation of ping command line application with latency and packets lost reported for each message. Implemented support for IPV6 and IPV4 versions. Custom implementation of time to live (TTL) is also supported.
+# Ping-Command-Line-Application4Implementation of ping command line application with latency and packets lost reported for each message. Implemented support for IPv4 and IPv6 versions. Custom implementation of time to live (TTL) is also supported.
